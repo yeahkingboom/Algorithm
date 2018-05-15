@@ -1,2 +1,2 @@
 # Algorithm
-Partices
+this is  a  Partices
